@@ -1,0 +1,73 @@
+_repo: An-Historical-Relation-of-the-Island-Ceylon-in-the-East-Indies--13-Miraculous-Escape_14346
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knox, Robert
+    deathdate: 1720
+    gutenberg_agent_id: '5485'
+    url: http://www.gutenberg.org/2009/agents/5485
+description: "An Historical Relation of the Island Ceylon together With somewhat Concerning\
+  \ Severall Remarkable passages of my life that hath hapned since my Deliverance\
+  \ out of Captivity is a book written by the English trader and sailor Robert Knox\
+  \ in 1681. It describes his experiences some years earlier on the South Asian island\
+  \ now best known as Sri Lanka. It provides one of the most important contemporary\
+  \ accounts of 17th century Ceylonese life.\nKnox spent 19 years on Ceylon after\
+  \ being taken prisoner by King Râjasimha II. He survived by knitting caps, selling\
+  \ goods and lending rice and corn. He finally escaped with one companion in 1679\
+  \ and reached Arippu, a Dutch settlement on the north-west coast of the island,\
+  \ from where he was able to return to England in 1680.\nThe book was written during\
+  \ the voyage to England. It came to the attention of Knox's employers, the directors\
+  \ of the British East India Company, who recommended its publication. The historian\
+  \ and biographer John Strype, Knox's cousin, helped him to prepare the book for\
+  \ publication with the encouragement of the natural philosopher and polymath Robert\
+  \ Hooke. It was printed by Richard Chiswell, the printer to the Royal Society, under\
+  \ the imprimaturs of the Society and the Company. When the book was published in\
+  \ 1681 it was widely read and was translated in Knox's lifetime into German (1689),\
+  \ Dutch (1692) and French (1693) editions. It made Knox internationally famous and\
+  \ was a major influence on the works of Daniel Defoe; Robinson Crusoe and the later\
+  \ Captain Singleton both draw on the experiences of Knox.\n\nThe Relation has a\
+  \ wider literary importance in influencing the development of the English novel.\
+  \ Knox uses direct and idiomatic language to provide detailed descriptions of the\
+  \ factual reality that he saw during his time on Ceylon. He paints a portrait of\
+  \ himself as a practical, self-sufficient and robust individual, very much like\
+  \ Defoe's shipwrecked mariner. The book is of fundamental importance as a source\
+  \ for the economic history and anthropology of Ceylon during this period due to\
+  \ the objectivity and detail of the text, in which Knox provides closely observed\
+  \ descriptions of Sinhalese topography, economic and social life, cultural characteristics\
+  \ and conditions in the kingdom of Kandy. It is divided into four parts; the first\
+  \ three describe the kingdom of Kandy, and the final part details Knox's escape\
+  \ from captivity.\nThe preface provides maps and descriptions of Tamil royal and\
+  \ rural life in the country Vanni which he stumbled into in the north and east of\
+  \ the island. The book is accompanied by seventeen copperplate engravings of unknown\
+  \ provenance to illustrate topics addressed by Knox. The engravings are not particularly\
+  \ artistically accomplished, but they do fit the text well. However, the artist\
+  \ suffers from evidently not having seen his subjects; H.A.I. Goonetileke comments\
+  \ that \"the animals are near caricatures and the human subjects are obviously based\
+  \ on more familiar European models.\" The non-English editions of the book imitate\
+  \ or adapt the original English engravings. The Dutch edition, for instance, incorporates\
+  \ engravings by Jan Luyken which are based on the English originals but provide\
+  \ a more animated setting, with more detailed backgrounds of buildings and landscapes.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14346'
+  wikidata: Q4750019
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sri Lanka -- Social life and customs'
+- !lcc 'DS'
+- !lcsh 'Sri Lanka -- Description and travel -- Early works to 1800'
+title: "An Historical Relation of the Island Ceylon in the East Indies\r\nTogether\
+  \ with an Account of the Detaining in Captivity the Author\r\nand Divers other Englishmen\
+  \ Now Living There, and of the Author's\r\nMiraculous Escape"
+url: http://www.gutenberg.org/ebooks/14346
+wikipedia:
+- https://si.wikipedia.org/wiki/%E0%B6%91%E0%B6%AF%E0%B7%8F_%E0%B7%84%E0%B7%99%E0%B7%85%E0%B6%AF%E0%B7%92%E0%B7%80
+- https://en.wikipedia.org/wiki/An_Historical_Relation_of_the_Island_Ceylon
